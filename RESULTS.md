@@ -31,10 +31,10 @@ Tool parts that I chose: Part 2, Selenium WebDriver in Java, and Part 4, Cypress
 ## Part 4: Cypress
 - node --version, npm --version and npx cypress version: v22.21.0, 10.9.4, Cypress package version 16.2.1 and binary version 16.2.1
 - Step 4.3, failure message for the wrong title: `Timed out retrying after 10000ms` with `-'Web form'` (actual) and `+'Web Form'` (expected)
-- Step 4.6, tool and calories in the answer of POST /api/pizza:
-- Step 4.7, the line of the admin list that shows your pizza:
-- Step 4.8, run 1, result, duration and pizza name:
-- Step 4.8, run 2, result, duration and pizza name:
+- Step 4.6, tool and calories in the answer of POST /api/pizza: Scissors, 350 calories per slice (run of Lab Pizza 20261124-235133)
+- Step 4.7, the line of the admin list that shows your pizza: Lab Pizza 20261124-235133 (tool=Scissors, ...), see cypress/screenshots/pizza-scenario.cy.js/qp01-step7-admin-list.png
+- Step 4.8, run 1, result, duration and pizza name: Lab Pizza 20261124-234928, tool Scissors, 350 calories. pizza-scenario.cy.js reached step 4 and beyond; the full run then stopped with the Cypress error `Error: * is not a valid URL` before the summary table, so no duration was recorded
+- Step 4.8, run 2, result, duration and pizza name: Lab Pizza 20261124-235133, pizza-scenario.cy.js 1 passing (23 s); the same Cypress error `* is not a valid URL` stopped the run during web-form.cy.js, so the full summary table was not printed. Not yet investigated
 - Step 4.9 (optional), browser and result:
 
 ## Part B
