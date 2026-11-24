@@ -29,8 +29,8 @@ Tool parts that I chose: Part 2, Selenium WebDriver in Java, and Part 4, Cypress
 - Step 2.20, full run 2, time and number of tests: BUILD SUCCESS, Tests run: 5, Failures: 0, total time 32.778 s (screenshots/20261124-234156, report in reports/uilab.QP01PageObjectTest.txt)
 
 ## Part 4: Cypress
-- node --version, npm --version and npx cypress version:
-- Step 4.3, failure message for the wrong title:
+- node --version, npm --version and npx cypress version: v22.21.0, 10.9.4, Cypress package version 16.2.1 and binary version 16.2.1
+- Step 4.3, failure message for the wrong title: `Timed out retrying after 10000ms` with `-'Web form'` (actual) and `+'Web Form'` (expected)
 - Step 4.6, tool and calories in the answer of POST /api/pizza:
 - Step 4.7, the line of the admin list that shows your pizza:
 - Step 4.8, run 1, result, duration and pizza name:
