@@ -25,8 +25,8 @@ Tool parts that I chose: Part 2, Selenium WebDriver in Java, and Part 4, Cypress
 - Step 2.4, the failure line for the wrong title: `[ERROR]   FirstTest.webFormOpens:20 expected: <Web Form> but was: <Web form>`
 - Step 2.15, QP01Test run 1, result and time: Pass, Tests run: 1, Failures: 0, 12.76 s (Maven total 20.6 s)
 - Step 2.15, QP01Test run 2, result and time: Pass, Tests run: 1, Failures: 0, 14.15 s (Maven total 19.2 s)
-- Step 2.20, full run 1, time and number of tests:
-- Step 2.20, full run 2, time and number of tests:
+- Step 2.20, full run 1, time and number of tests: BUILD SUCCESS, Tests run: 5, Failures: 0, total time 35.988 s (screenshots/20261124-234119)
+- Step 2.20, full run 2, time and number of tests: BUILD SUCCESS, Tests run: 5, Failures: 0, total time 32.778 s (screenshots/20261124-234156, report in reports/uilab.QP01PageObjectTest.txt)
 
 ## Part 4: Cypress
 - node --version, npm --version and npx cypress version:
