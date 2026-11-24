@@ -22,7 +22,7 @@ Tool parts that I chose: Part 2, Selenium WebDriver in Java, and Part 4, Cypress
 | 7    | The list shows "Lab Pizza 20261124-233500 (tool=Scissors, ingredients_number=5)", the same tool as in step 4 | Pass |
 
 ## Part 2: Selenium WebDriver in Java
-- Step 2.4, the failure line for the wrong title:
+- Step 2.4, the failure line for the wrong title: `[ERROR]   FirstTest.webFormOpens:20 expected: <Web Form> but was: <Web form>`
 - Step 2.15, QP01Test run 1, result and time:
 - Step 2.15, QP01Test run 2, result and time:
 - Step 2.20, full run 1, time and number of tests:
