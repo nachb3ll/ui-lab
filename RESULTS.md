@@ -3,7 +3,7 @@
 Tool parts that I chose: Part 2, Selenium WebDriver in Java, and Part 4, Cypress
 
 ## Part 0
-- Step 0.1, Chrome version:
+- Step 0.1, Chrome version: 158.0.8127.88 (Official Build) (64-bit)
 - Step 0.3, ChromeDriver version:
 - Step 0.4, locator of Pizza, Please!:
 - Step 0.4, locator of Excluded tools:
